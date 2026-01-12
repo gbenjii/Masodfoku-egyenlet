@@ -1,2 +1,2 @@
-# M-sodfoku-egyenlet
+# Masodfoku-egyenlet
 Masodfoku egyenlet megoldo alkalmazas diszkriminansal
