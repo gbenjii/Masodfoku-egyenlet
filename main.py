@@ -5,7 +5,7 @@ print("ez az alkalmazás képes megoldani egy másodfokú egyenletet diszkrimin�
 
 time.sleep(1)
 while True:
-    a_szam = input('Kérem az A számot: ')
+    a_szam = input("Kérem az A számot: ")
     try:
         a_szam = int(a_szam)
         break
@@ -39,8 +39,6 @@ else:
     diszkriminans > 0
     gyokszar = math.sqrt(diszkriminans)
     
-(b_szam) = b_szam
-
 if diszkriminans > 0:
     print("Kettő valós megoldás van.")
     x1 = ((-(b_szam))+gyokszar)/(2*a_szam)
